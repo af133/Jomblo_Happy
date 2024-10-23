@@ -14,9 +14,13 @@ Menyediakan platform untuk berbagi pengetahuan dan pengalaman terkait pengembang
 # Fitur
 
 Berita Terkini: Menyajikan artikel dan berita terbaru mengenai proyek PLTMH di Jember.
+
 Informasi Teknologi: Menyediakan penjelasan tentang teknologi yang digunakan dalam PLTMH.
+
 Galeri Proyek: Menampilkan foto-foto dari proyek PLTMH yang sedang berjalan atau telah selesai.
+
 Data dan Statistik: Menyajikan data terkait produksi energi, kapasitas, dan kontribusi PLTMH terhadap kebutuhan energi lokal.
+
 Kontak dan Partisipasi: Memfasilitasi pengunjung untuk menghubungi tim pengelola dan berpartisipasi dalam pengembangan proyek.
 
 # Cara Menggunakan
