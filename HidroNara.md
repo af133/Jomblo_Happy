@@ -8,7 +8,9 @@ Website ini menyajikan informasi dan perkembangan terkait Pembangkit Listrik Ten
 Website ini dibuat untuk:
 
 Meningkatkan kesadaran masyarakat tentang potensi energi terbarukan, khususnya PLTMH.
+
 Menyediakan informasi terkini mengenai proyek PLTMH yang ada di Kota Jember.
+
 Menyediakan platform untuk berbagi pengetahuan dan pengalaman terkait pengembangan PLTMH.
 
 # Fitur
@@ -26,12 +28,16 @@ Kontak dan Partisipasi: Memfasilitasi pengunjung untuk menghubungi tim pengelola
 # Cara Menggunakan
 
 Akses Website: Kunjungi URL Website untuk melihat informasi terbaru mengenai PLTMH di Kota Jember.
+
 Navigasi: Gunakan menu navigasi di bagian atas halaman untuk mengakses berbagai fitur dan informasi.
+
 Berinteraksi: Untuk mengajukan pertanyaan atau memberikan masukan, gunakan halaman kontak yang tersedia.
 Teknologi
 
 # Website ini dibangun menggunakan:
 
 HTML/CSS: Untuk struktur dan desain tampilan.
+
 JavaScript: Untuk interaktivitas dan fungsi dinamis.
+
 Framework: Tailwind
